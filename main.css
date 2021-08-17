@@ -1,0 +1,118 @@
+
+body{
+    margin:0px;
+    
+}
+.header
+{
+   
+    background-color: #ffd314;    
+    width: 100%;
+    margin: 0 !important; 
+    height: 100px;
+    text-align: center;
+    font-family: 'Yeon Sung', cursive;
+    text-align: center;
+    vertical-align:middle;
+    display: inline-block ;
+    margin: auto;
+ 
+}
+textarea
+{
+    width: 70vh;
+    display: block;
+    margin: 1rem; 
+    height: 20vh;
+    margin:auto;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    font-family: 'Yeon Sung', cursive;
+    font-size: 20px;
+    border-radius: 1rem;
+
+}
+.container
+{
+    display: flex;
+    background-color:black;
+}
+.leftPanel
+{
+   
+  
+    width: 50%;
+    height: 100vh;
+    background-image: url("Swedish_Chef.jpg");
+    background-repeat: no-repeat;
+    margin:auto;
+    margin-top:1rem;
+
+}
+.rightPanel
+{
+    width: 50%;
+    float:right;
+    background-color:black;
+    height: 100vh;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+    font-family: 'Yeon Sung', cursive;
+}
+
+.title
+{
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    width: 100%;
+    font-size: 2rem;
+    text-align: center;
+}
+#btn-translate
+{
+    margin:auto;
+    display: block;
+    background-color: #1520A6;
+    background-size: 150%;
+    border: none;
+    border-color:black 5px;
+    border-radius: 1rem;
+    padding-top: 1rem;
+   padding-left:1rem;
+   padding-right: 1rem;
+   padding-bottom: 1rem;
+   color:white;
+}
+
+.btn-container{
+   text-align:center;
+ 
+   
+}
+footer{
+    text-align:center;
+    background-color: #ffd314;
+    padding:1rem;
+    font-family: 'Great Vibes', cursive;
+    font-size: 10px;
+    margin-top: 4rem;
+}
+.footer-content{
+    font-size: 20px;
+    max-height: 2rem;
+    text-align: center;
+    width: 60rem;
+    margin:auto;
+   
+}
+
+.rightContainer
+{
+    margin-top:10%;
+    font-family: 'Yeon Sung', cursive;
+}
+
